@@ -1,0 +1,178 @@
+[
+  {
+    "id": "10",
+    "name": "Euphoria Glide",
+    "category": "Women's Running",
+    "imageUrl": [
+      "https://media.istockphoto.com/id/186855155/photo/sport-shoe.jpg?s=612x612&w=0&k=20&c=W1KVqi-vPzIWh7pbyzQ14Kyh0vgat-i0jnUgRfzXVZg=",
+      "https://media.istockphoto.com/id/174828649/photo/sport-shoe-sneakers-on-white.jpg?s=612x612&w=0&k=20&c=ldeP3YSboPpJelPlQiO27oHVDHjtsr3ltj7p4cb355g="
+    ],
+    "oldPrice": "18.00",
+    "sizes": [
+      { "size": "6.0", "isSelected": false },
+      { "size": "6.5", "isSelected": false },
+      { "size": "7.0", "isSelected": false },
+      { "size": "7.5", "isSelected": false },
+      { "size": "8.0", "isSelected": false },
+      { "size": "8.5", "isSelected": false },
+      { "size": "9.0", "isSelected": false }
+    ],
+    "price": "79.00",
+    "description": "These sneakers blend comfort and style effortlessly. The soft, breathable upper and cushioned sole provide all-day comfort, while the sleek design and pastel color options add a touch of elegance to any casual or athletic outfit.",
+    "title": "Adidas Running Shoes With Cooling Ventilations"
+  },
+  {
+    "id": "11",
+    "name": "Urban Wander",
+    "category": "Women's Running",
+    "oldPrice": "99.00",
+    "imageUrl": [
+      "https://media.istockphoto.com/id/628210852/photo/sports-shoe.jpg?s=612x612&w=0&k=20&c=r9U6Msiwk_b2P-PJM6EBKaRTHGmeGb9ejw1QkM_DkfE=",
+      "https://media.istockphoto.com/id/184283573/photo/sport-shoes.jpg?s=612x612&w=0&k=20&c=5HklfFiPGMaPQE3rcBaqZ-rIj1S1ECvdQaW2srb5HN0="
+    ],
+    "sizes": [
+      { "size": "6.0", "isSelected": false },
+      { "size": "6.5", "isSelected": false },
+      { "size": "7.0", "isSelected": false },
+      { "size": "7.5", "isSelected": false },
+      { "size": "8.0", "isSelected": false },
+      { "size": "8.5", "isSelected": false },
+      { "size": "9.0", "isSelected": false }
+    ],
+    "price": "71.00",
+    "description": "Perfect for the modern woman on the go. These sneakers feature a durable, lightweight construction and a trendy design that transitions seamlessly from city streets to outdoor adventures. Available in various muted shades to match any outfit.",
+    "title": "Adidas Running Shoes With Cooling Ventilations"
+  },
+  {
+    "id": "12",
+    "name": "Streek Slide",
+    "category": "Women's Running",
+    "imageUrl": [
+      "https://media.istockphoto.com/id/486073074/photo/sports-shoe.jpg?s=612x612&w=0&k=20&c=FHf9sYZ-I7K3h_qQxnNeV3N1C4QXhpTpv61NcwxC0yc=",
+      "https://media.istockphoto.com/id/186855155/photo/sport-shoe.jpg?s=612x612&w=0&k=20&c=W1KVqi-vPzIWh7pbyzQ14Kyh0vgat-i0jnUgRfzXVZg="
+    ],
+    "sizes": [
+      { "size": "6.0", "isSelected": false },
+      { "size": "6.5", "isSelected": false },
+      { "size": "7.0", "isSelected": false },
+      { "size": "7.5", "isSelected": false },
+      { "size": "8.0", "isSelected": false },
+      { "size": "8.5", "isSelected": false },
+      { "size": "9.0", "isSelected": false }
+    ],
+    "oldPrice": "1349.00",
+    "price": "94.00",
+    "description": " Designed for those who love minimalism and elegance. The streamlined silhouette and smooth leather upper give these sneakers a sophisticated yet casual feel, making them perfect for both running errands and meeting friends.",
+    "title": "Adidas Running Shoes With Cooling Ventilations"
+  },
+  {
+    "id": "13",
+    "name": "Fusion Flex",
+    "category": "Women's Running",
+    "imageUrl": [
+      "https://media.istockphoto.com/id/184283573/photo/sport-shoes.jpg?s=612x612&w=0&k=20&c=5HklfFiPGMaPQE3rcBaqZ-rIj1S1ECvdQaW2srb5HN0=",
+      "https://media.istockphoto.com/id/493023388/photo/sports-shoe.jpg?s=612x612&w=0&k=20&c=dn1uWzjv-tVaTtEUuzuynCKAoEkJ-OzvRt979IGhqKo="
+    ],
+    "oldPrice": "999.00",
+    "price": "69.00",
+    "sizes": [
+      { "size": "6.0", "isSelected": false },
+      { "size": "6.5", "isSelected": false },
+      { "size": "7.0", "isSelected": false },
+      { "size": "7.5", "isSelected": false },
+      { "size": "8.0", "isSelected": false },
+      { "size": "8.5", "isSelected": false },
+      { "size": "9.0", "isSelected": false }
+    ],
+    "description": "These versatile sneakers combine flexibility and support, making them ideal for running, gym sessions, and everyday wear. The multi-textured upper and supportive midsole offer comfort and performance that keeps up with your active lifestyle.",
+    "title": "Adidas Running Shoes With Cooling Ventilations"
+  },
+  {
+    "id": "14",
+    "name": "Ultrablist Bounce",
+    "category": "Women's Running",
+    "imageUrl": [
+      "https://media.istockphoto.com/id/493023388/photo/sports-shoe.jpg?s=612x612&w=0&k=20&c=dn1uWzjv-tVaTtEUuzuynCKAoEkJ-OzvRt979IGhqKo=",
+      "https://media.istockphoto.com/id/486073074/photo/sports-shoe.jpg?s=612x612&w=0&k=20&c=FHf9sYZ-I7K3h_qQxnNeV3N1C4QXhpTpv61NcwxC0yc="
+    ],
+    "oldPrice": "84.00",
+    "sizes": [
+      { "size": "6.0", "isSelected": false },
+      { "size": "6.5", "isSelected": false },
+      { "size": "7.0", "isSelected": false },
+      { "size": "7.5", "isSelected": false },
+      { "size": "8.0", "isSelected": false },
+      { "size": "8.5", "isSelected": false },
+      { "size": "9.0", "isSelected": false }
+    ],
+    "price": "76.00",
+    "description": "These sneakers offer a blissful blend of comfort and style. With a responsive foam midsole and cushioned insole, they provide a soft, springy feel that’s perfect for long walks or light jogging. The vibrant color palette adds a fun element to your workout wardrobe.",
+    "title": "Adidas Running Shoes With Cooling Ventilations"
+  },
+  {
+    "id": "15",
+    "name": "Calm Cooler",
+    "category": "Women's Running",
+    "imageUrl": [
+      "https://media.istockphoto.com/id/486073074/photo/sports-shoe.jpg?s=612x612&w=0&k=20&c=FHf9sYZ-I7K3h_qQxnNeV3N1C4QXhpTpv61NcwxC0yc=",
+      "https://media.istockphoto.com/id/628210852/photo/sports-shoe.jpg?s=612x612&w=0&k=20&c=r9U6Msiwk_b2P-PJM6EBKaRTHGmeGb9ejw1QkM_DkfE="
+    ],
+    "oldPrice": "599.00",
+    "price": "44.00",
+    "sizes": [
+      { "size": "6.0", "isSelected": false },
+      { "size": "6.5", "isSelected": false },
+      { "size": "7.0", "isSelected": false },
+      { "size": "7.5", "isSelected": false },
+      { "size": "8.0", "isSelected": false },
+      { "size": "8.5", "isSelected": false },
+      { "size": "9.0", "isSelected": false }
+    ],
+    "description": "Embrace relaxation with these easy-going sneakers. The lightweight design and breathable mesh upper keep your feet cool and comfortable during any activity, whether it’s a yoga class, a beach stroll, or a casual coffee outing.",
+    "title": "Adidas Running Shoes With Cooling Ventilations"
+  },
+  {
+    "id": "16",
+    "name": "Motion Mesh",
+    "category": "Women's Running",
+    "imageUrl": [
+      "https://media.istockphoto.com/id/174828649/photo/sport-shoe-sneakers-on-white.jpg?s=612x612&w=0&k=20&c=ldeP3YSboPpJelPlQiO27oHVDHjtsr3ltj7p4cb355g=",
+      "https://media.istockphoto.com/id/486073074/photo/sports-shoe.jpg?s=612x612&w=0&k=20&c=FHf9sYZ-I7K3h_qQxnNeV3N1C4QXhpTpv61NcwxC0yc="
+    ],
+    "oldPrice": "UltraBoost Shoes",
+    "price": "99.00",
+    "sizes": [
+      { "size": "6.0", "isSelected": false },
+      { "size": "6.5", "isSelected": false },
+      { "size": "7.0", "isSelected": false },
+      { "size": "7.5", "isSelected": false },
+      { "size": "8.0", "isSelected": false },
+      { "size": "8.5", "isSelected": false },
+      { "size": "9.0", "isSelected": false }
+    ],
+    "description": "These sneakers are all about dynamic movement. The breathable mesh upper ensures airflow and comfort, while the flexible sole provides the perfect amount of support for running, jumping, or dancing. Ideal for active women who want style and performance in one.",
+    "title": "Adidas Running Shoes With Cooling Ventilations"
+  },
+  {
+    "id": "17",
+    "name": "Luxe Left Shoes",
+    "category": "Women's Running",
+    "imageUrl": [
+      "https://media.istockphoto.com/id/493023388/photo/sports-shoe.jpg?s=612x612&w=0&k=20&c=dn1uWzjv-tVaTtEUuzuynCKAoEkJ-OzvRt979IGhqKo=",
+      "https://media.istockphoto.com/id/493023388/photo/sports-shoe.jpg?s=612x612&w=0&k=20&c=dn1uWzjv-tVaTtEUuzuynCKAoEkJ-OzvRt979IGhqKo="
+    ],
+    "sizes": [
+      { "size": "6.0", "isSelected": false },
+      { "size": "6.5", "isSelected": false },
+      { "size": "7.0", "isSelected": false },
+      { "size": "7.5", "isSelected": false },
+      { "size": "8.0", "isSelected": false },
+      { "size": "8.5", "isSelected": false },
+      { "size": "9.0", "isSelected": false }
+    ],
+    "oldPrice": "1499.00",
+    "price": "79.00",
+    "description": "Elevate your sneaker game with these chic, high-performance sneakers. The metallic details and sleek lines add a touch of luxury, while the lightweight, responsive sole ensures comfort for all-day wear. Perfect for pairing with jeans, skirts, or athletic wear..Textile upper provides a snug comfortable feel. Responsive Boost midsole includes plugs for throwback style",
+    "title": "Adidas Running Shoes With Cooling Ventilations"
+  }
+]

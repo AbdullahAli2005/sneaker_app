@@ -1,0 +1,178 @@
+[
+  {
+    "id": "0",
+    "name": "Air Run Max 2024",
+    "category": "Men's Running",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/AmirBayat0/Sneakers-shop-app-Flutter/refs/heads/main/Sneakers%20App/sneakers_app/assets/images/nike3.png",
+      "https://raw.githubusercontent.com/AmirBayat0/Sneakers-shop-app-Flutter/refs/heads/main/Sneakers%20App/sneakers_app/assets/images/nike2.png"
+    ],
+    "oldPrice": "1899.00",
+    "sizes": [
+      { "size": "6.0", "isSelected": false },
+      { "size": "6.5", "isSelected": false },
+      { "size": "7.0", "isSelected": false },
+      { "size": "7.5", "isSelected": false },
+      { "size": "8.0", "isSelected": false },
+      { "size": "8.5", "isSelected": false },
+      { "size": "9.0", "isSelected": false }
+    ],
+    "price": "79.00",
+    "description": "Experience ultimate comfort and speed with the Air Run Max 2024. These running shoes feature advanced cushioning technology and a breathable upper, perfect for both casual runs and competitive races. The sleek design and durable outsole provide excellent traction and support, making them a top choice for runners who prioritize performance and style.",
+    "title": "Adidas Running Shoes With Cooling Ventilations"
+  },
+  {
+    "id": "1",
+    "name": "Flex Trainer Pro",
+    "category": "Men's Running",
+    "oldPrice": "99.00",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/AmirBayat0/Sneakers-shop-app-Flutter/refs/heads/main/Sneakers%20App/sneakers_app/assets/images/nike1.png",
+      "https://raw.githubusercontent.com/AmirBayat0/Sneakers-shop-app-Flutter/refs/heads/main/Sneakers%20App/sneakers_app/assets/images/nike8.png"
+    ],
+    "sizes": [
+      { "size": "6.0", "isSelected": false },
+      { "size": "6.5", "isSelected": false },
+      { "size": "7.0", "isSelected": false },
+      { "size": "7.5", "isSelected": false },
+      { "size": "8.0", "isSelected": false },
+      { "size": "8.5", "isSelected": false },
+      { "size": "9.0", "isSelected": false }
+    ],
+    "price": "79.00",
+    "description": "Stay agile and strong with the Flex Trainer Pro, designed for high-intensity workouts and training sessions. These training shoes offer superior stability and support with a lightweight, breathable upper. The high-grip sole ensures that you maintain your footing during intense movements, while the cushioned midsole keeps your feet comfortable through every rep.",
+    "title": "Adidas Running Shoes With Cooling Ventilations"
+  },
+  {
+    "id": "2",
+    "name": "UltraBoost Shoes",
+    "category": "Men's Running",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/AmirBayat0/Sneakers-shop-app-Flutter/refs/heads/main/Sneakers%20App/sneakers_app/assets/images/nike2.png",
+      "https://raw.githubusercontent.com/AmirBayat0/Sneakers-shop-app-Flutter/refs/heads/main/Sneakers%20App/sneakers_app/assets/images/nike5.png"
+    ],
+    "sizes": [
+      { "size": "6.0", "isSelected": false },
+      { "size": "6.5", "isSelected": false },
+      { "size": "7.0", "isSelected": false },
+      { "size": "7.5", "isSelected": false },
+      { "size": "8.0", "isSelected": false },
+      { "size": "8.5", "isSelected": false },
+      { "size": "9.0", "isSelected": false }
+    ],
+    "oldPrice": "1349.00",
+    "price": "94.00",
+    "description": "Put some pep in your step with the adidas Originals NMD R1.V2. The modern silhouette teams up with retro details to create a truly stand-out look. Your new favorite sneakers are right here. Regular fit shows off a streamlined silhouette Classic lace closure lets you adjust for your ideal fit.Textile upper provides a snug comfortable feel. Responsive Boost midsole includes plugs for throwback style",
+    "title": "Adidas Running Shoes With Cooling Ventilations"
+  },
+  {
+    "id": "3",
+    "name": "Trailblazer Xtreme",
+    "category": "Men's Running",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/AmirBayat0/Sneakers-shop-app-Flutter/refs/heads/main/Sneakers%20App/sneakers_app/assets/images/nike4.png",
+      "https://raw.githubusercontent.com/AmirBayat0/Sneakers-shop-app-Flutter/refs/heads/main/Sneakers%20App/sneakers_app/assets/images/nike1.png"
+    ],
+    "oldPrice": "999.00",
+    "price": "49.00",
+    "sizes": [
+      { "size": "6.0", "isSelected": false },
+      { "size": "6.5", "isSelected": false },
+      { "size": "7.0", "isSelected": false },
+      { "size": "7.5", "isSelected": false },
+      { "size": "8.0", "isSelected": false },
+      { "size": "8.5", "isSelected": false },
+      { "size": "9.0", "isSelected": false }
+    ],
+    "description": "Conquer every trail with the durable and comfortable Trailblazer Xtreme. These hiking shoes are built to handle rugged terrain, with a water-resistant upper and reinforced toe cap for added protection. The advanced traction outsole provides stability and grip on slippery slopes, while the cushioning insole keeps your feet comfortable during long hikes.",
+    "title": "Adidas Running Shoes With Cooling Ventilations"
+  },
+  {
+    "id": "4",
+    "name": "Urban Streak",
+    "category": "Men's Running",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/AmirBayat0/Sneakers-shop-app-Flutter/refs/heads/main/Sneakers%20App/sneakers_app/assets/images/nike5.png",
+      "https://raw.githubusercontent.com/AmirBayat0/Sneakers-shop-app-Flutter/refs/heads/main/Sneakers%20App/sneakers_app/assets/images/nike7.png"
+    ],
+    "oldPrice": "849.00",
+    "sizes": [
+      { "size": "6.0", "isSelected": false },
+      { "size": "6.5", "isSelected": false },
+      { "size": "7.0", "isSelected": false },
+      { "size": "7.5", "isSelected": false },
+      { "size": "8.0", "isSelected": false },
+      { "size": "8.5", "isSelected": false },
+      { "size": "9.0", "isSelected": false }
+    ],
+    "price": "60.00",
+    "description": "Stylish sneakers for everyday use—Urban Streak keeps you trendy. These sneakers combine a modern aesthetic with everyday functionality, featuring a lightweight construction and flexible sole for all-day wear. The breathable mesh upper and padded collar provide comfort, making them ideal for casual outings and social events.",
+    "title": "Adidas Running Shoes With Cooling Ventilations"
+  },
+  {
+    "id": "5",
+    "name": "Classic Formal",
+    "category": "Men's Running",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/AmirBayat0/Sneakers-shop-app-Flutter/refs/heads/main/Sneakers%20App/sneakers_app/assets/images/nike6.png",
+      "https://raw.githubusercontent.com/AmirBayat0/Sneakers-shop-app-Flutter/refs/heads/main/Sneakers%20App/sneakers_app/assets/images/nike3.png"
+    ],
+    "oldPrice": "599.00",
+    "price": "49.00",
+    "sizes": [
+      { "size": "6.0", "isSelected": false },
+      { "size": "6.5", "isSelected": false },
+      { "size": "7.0", "isSelected": false },
+      { "size": "7.5", "isSelected": false },
+      { "size": "8.0", "isSelected": false },
+      { "size": "8.5", "isSelected": false },
+      { "size": "9.0", "isSelected": false }
+    ],
+    "description": "Make a statement with timeless and elegant Classic Formal Oxfords. These formal shoes are perfect for business meetings, weddings, and other special occasions. The sleek leather upper, classic lace-up design, and durable outsole offer both style and comfort. They are a versatile choice that complements any formal outfit.",
+    "title": "Adidas Running Shoes With Cooling Ventilations"
+  },
+  {
+    "id": "6",
+    "name": "Runner 3000",
+    "category": "Men's Running",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/AmirBayat0/Sneakers-shop-app-Flutter/refs/heads/main/Sneakers%20App/sneakers_app/assets/images/nike7.png",
+      "https://raw.githubusercontent.com/AmirBayat0/Sneakers-shop-app-Flutter/refs/heads/main/Sneakers%20App/sneakers_app/assets/images/nike4.png"
+    ],
+    "oldPrice": "2799.00",
+    "price": "86.00",
+    "sizes": [
+      { "size": "6.0", "isSelected": false },
+      { "size": "6.5", "isSelected": false },
+      { "size": "7.0", "isSelected": false },
+      { "size": "7.5", "isSelected": false },
+      { "size": "8.0", "isSelected": false },
+      { "size": "8.5", "isSelected": false },
+      { "size": "9.0", "isSelected": false }
+    ],
+    "description": "Glide through your day with the Wave Runner 3000, designed for ultimate comfort and style. These sneakers feature a smooth, wave-patterned sole that provides exceptional shock absorption and support. The breathable mesh upper keeps your feet cool, while the padded collar and insole offer maximum comfort for long walks and daily activities.",
+    "title": "Adidas Running Shoes With Cooling Ventilations"
+  },
+  {
+    "id": "7",
+    "name": "Sleek Joggers",
+    "category": "Men's Running",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/AmirBayat0/Sneakers-shop-app-Flutter/refs/heads/main/Sneakers%20App/sneakers_app/assets/images/nike8.png",
+      "https://raw.githubusercontent.com/AmirBayat0/Sneakers-shop-app-Flutter/refs/heads/main/Sneakers%20App/sneakers_app/assets/images/nike6.png"
+    ],
+    "oldPrice": "1049.00",
+    "sizes": [
+      { "size": "6.0", "isSelected": false },
+      { "size": "6.5", "isSelected": false },
+      { "size": "7.0", "isSelected": false },
+      { "size": "7.5", "isSelected": false },
+      { "size": "8.0", "isSelected": false },
+      { "size": "8.5", "isSelected": false },
+      { "size": "9.0", "isSelected": false }
+    ],
+    "price": "90.00",
+    "description": "Perfect for a balanced lifestyle, Sleek Joggers provide the best of both worlds—style and performance. These running shoes feature a streamlined design with a lightweight upper and a responsive sole. The cushioned midsole ensures a smooth ride, whether you're jogging in the park or hitting the gym. Available in various colors to match your personal style",
+    "title": "Adidas Running Shoes With Cooling Ventilations"
+  }  
+]
