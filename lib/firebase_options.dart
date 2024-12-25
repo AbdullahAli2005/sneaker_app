@@ -50,7 +50,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyB6VktQqz6YbChl8X_BCkCymc3PPPnaFMI',
+    apiKey: 'YOUR_GOOGLE_API_KEY',
     appId: '1:1089194087273:web:dc60de5d373c12470123f8',
     messagingSenderId: '1089194087273',
     projectId: 'sneakersapp-173b7',
